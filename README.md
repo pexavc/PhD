@@ -1,6 +1,17 @@
 # Defender's PhD
 
-I'm pursuing a career as an independent researcher in "sociocultural technology". My background is in computer science & math. I worked in tech for 6 years (geospatial software). 
+Pursuing independent research in "sociocultural technology", I think my greatest strength is as an experimentalist. 
+
+My background is in computer science & math. I worked in tech for 6 years (geospatial software). 
+
+### Research statement (WIP)
+
+[Who Are We Now](https://whoarewenow.net/) Blaise Aguera Y Arcas
+
+Can we study culture in a way that's open source, and 100% transparent? 
+
+- cultural peer review
+- 
 
 ### Advisors
 
