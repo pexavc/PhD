@@ -30,3 +30,12 @@ If you know of any funding opportunities for my work please let me know.
 <a href="https://ko-fi.com/defenderofbasic">
 <img width="100" alt="support_me_on_kofi_badge_dark" src="https://github.com/user-attachments/assets/df19236a-d8e3-434f-b405-cd903d2f4739">
 </a>
+
+### 🧭 Long term vision
+
+If I can do a good job learning, writing as I go, getting feedback from researchers on the internet, and eventually publishing something novel & useful, I can get an endorsement from people with academic credentials. My reward would be status, that I can use to further my career as a researcher, or hold a position in a corporation furthering this work.
+
+I want to contribute to a world where all tribes on earth have access to tools to study themselves, safely in private if needed, and to signal what they want to signal publicly about themselves. We would see culture as open source, art is forked & remixed, not frozen by copyright. 
+
+Our culture is open source & needs ongoing maintenance. 
+
