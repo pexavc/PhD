@@ -8,9 +8,16 @@ https://www.community-archive.org/
 
 A project to ask users to export & share their data as part of a public archive, so that anyone can study it. I wrote about ["visualizing how ideas spread"](https://github.com/TheExGenesis/community-archive/wiki/Exploring-historical-trends-in-the-community-archive) with a google-trends like app on this data.
 
+ <details>
+ <summary><i>read more</i></summary>
+ 
 My initial plan was to just publish my own archive, study it to see how & why I changed significantly over a span of ~1 year as I was exposed to specific ideas. This is kind of a very invasive analysis, but I thought that doing it on myself for the public good would be the easiest way to get permission, and that if I find something useful or interesting for myself, others might do it too. And if there is anything dangerous about it, others will see that too. Either way it will contribute to the field.
 
 I believe this can become a common paradigm. We don't need to ask permission from big companies to study ourselves, every user can export their own data and share it with whomever they choose to. The only other notable example of this pattern is [Washington Post asking its followers to export and give them their TikTok user data](https://omarshehata.substack.com/p/washington-post-is-collecting-tiktok).
+   
+ </details>
+
+
 
 ### Create empirical maps of discourse with LLM's semantic embeddings
 
@@ -24,12 +31,15 @@ The missing piece is that, this gives you the aggregate. I want different tribes
 
 I want to create tools or a platform for people to (1) ask an interesting question (2) collect data, and choose whether to publish it or keep it private within participants (3) for anyone to fork and repro the study.
 
+ <details>
+ <summary><i>read more</i></summary>
 Aella does this a lot, but I want this to somehow be easier, more common of a pattern. Like the [communal daily plot](https://perthirtysix.com/communal-plot-daily-poll) but in a way I can fork or submit questions?  
 
 This is partially about creating the tech tools and partially about spreading that idea that anyone can do this, you can analyze other people's data, etc.
 
 Forking is really important because Aella's polls for example sometimes get crazy answers/conclusion where people say "that's not true/representative". I want people to be able to run the study within their own friend network, and compare their network to the global/sampled population. This is how to get things to "spread sideways", in areas where internet culture doesn't touch. My mom isn't going to see this surveys, but if the game is: "poll your network" I can go sit with her and do it. 
-
+</details>
+  
 ### IRL cultural experiments
 
 It is not typical in the culture where I live for friends to "just stop by" your house without calling first. But I can change this with agreement with my friends, then if it works, we can write about it. Does it spread? What about "friendship breakups" ? and normalizing "saying no"? Can we just find all the bottlenecks in our local culture and fix them? And then do "cultural peer review" on the internet? 
