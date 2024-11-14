@@ -2,6 +2,21 @@
 
 These are current directions I'm actively pursuing.
 
+### Anatomy of an Internet Argument
+
+https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument
+
+This is a series of case studies about how to resolve internet disputes. It's an empirical test of the theory that humans speak different languages, and if you can translate each tribe's different language, you can resolve disputes. This is a framework for "participatory science", inviting people to learn the technique, apply it in the real world, and if they find it doesn't work, they can "disprove" it, or update the theory, or get peer feedback. 
+
+ <details>
+ <summary><i>read more</i></summary>
+
+The object level goal is to teach people how to have more productive conversations online, which leads to greater empathy and social cohesion, and the meta goal is to make a fun, accessible way to engage the average person in a process of science & truth seeking. It's a big game where you win by understanding the other side, proving you can predict them (which is often the goal of the other side, to be understood)
+
+Trying to collect the theory & case studies in an open source book: https://defenderofbasic.github.io/in-good-faith-handbook/
+
+ </details>
+
 ### Twitter community archive
 
 https://www.community-archive.org/
