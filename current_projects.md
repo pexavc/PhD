@@ -10,6 +10,8 @@ A project to ask users to export & share their data as part of a public archive,
 
 My initial plan was to just publish my own archive, study it to see how & why I changed significantly over a span of ~1 year as I was exposed to specific ideas. This is kind of a very invasive analysis, but I thought that doing it on myself for the public good would be the easiest way to get permission, and that if I find something useful or interesting for myself, others might do it too. And if there is anything dangerous about it, others will see that too. Either way it will contribute to the field.
 
+I believe this can become a common paradigm. We don't need to ask permission from big companies to study ourselves, every user can export their own data and share it with whomever they choose to. The only other notable example of this pattern is [Washington Post asking its followers to export and give them their TikTok user data](https://omarshehata.substack.com/p/washington-post-is-collecting-tiktok).
+
 ### Create empirical maps of discourse with LLM's semantic embeddings
 
 See [twitter thread with examples](https://x.com/DefenderOfBasic/status/1856002128327643289).
