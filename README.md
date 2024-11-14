@@ -12,7 +12,7 @@ The behavior of groups of humans can be predicted with great precision. Private 
 
 My top priority is figuring out how to study, predict, and engineer our culture safely. I'm doing this work 100% in the open for this reason. 
 
-### 🔭 Current active directions
+### 🔭 Directions I'm currently working on 
 
 See [current_projects.md](current_projects.md)
 
