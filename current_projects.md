@@ -18,6 +18,14 @@ This gives us a rigorous answer to things like "does our culture think capitalis
 
 The missing piece is that, this gives you the aggregate. I want different tribes to take this quiz, to map out what _they_ think it should be. The reality is there are large groups who would say the concept of "capitalism" is much closer to "evil" than communism. I want to build these conceptual maps that are specific to different tribes, because they let us identify (1) exactly in what way do people see a different reality (2) exactly what is our common ground 
 
+### Communal culture science
+
+I want to create tools or a platform for people to (1) ask an interesting question (2) collect data, and choose whether to publish it or keep it private within participants (3) for anyone to fork and repro the study.
+
+Aella does this a lot, but I want this to somehow be easier, more common of a pattern. Like the [communal daily plot](https://perthirtysix.com/communal-plot-daily-poll) but in a way I can fork or submit questions?  
+
+This is partially about creating the tech tools and partially about spreading that idea that anyone can do this, you can analyze other people's data, etc.
+
 ### IRL cultural experiments
 
 It is not typical in the culture where I live for friends to "just stop by" your house without calling first. But I can change this with agreement with my friends, then if it works, we can write about it. Does it spread? What about "friendship breakups" ? and normalizing "saying no"? Can we just find all the bottlenecks in our local culture and fix them? And then do "cultural peer review" on the internet? 
