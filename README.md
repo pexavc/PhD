@@ -1,17 +1,12 @@
 # Defender's PhD
 
-Pursuing independent research in "sociocultural technology", I think my greatest strength is as an experimentalist. 
+Pursuing independent research in "sociocultural technology". My current focus is developing experimental techniques, documenting them, and carrying out experiments to corroborate or falsify theories. 
 
 My background is in computer science & math. I worked in tech for 6 years (geospatial software). 
 
 ### Research statement (WIP)
 
-[Who Are We Now](https://whoarewenow.net/) Blaise Aguera Y Arcas
-
-Can we study culture in a way that's open source, and 100% transparent? 
-
-- cultural peer review
-- 
+TODO
 
 ### Advisors
 
@@ -22,4 +17,6 @@ Can we study culture in a way that's open source, and 100% transparent?
 
 Currently self funded. 
 
-If you know of any funding opportunities for my work please let me know!
+If you know of any funding opportunities for my work please let me know. 
+
+https://ko-fi.com/defenderofbasic
