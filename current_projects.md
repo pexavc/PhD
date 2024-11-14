@@ -17,3 +17,12 @@ See [twitter thread with examples](https://x.com/DefenderOfBasic/status/18560021
 This gives us a rigorous answer to things like "does our culture think capitalism is more evil than communism?" There is an empirical answer to this question. You can create this map with with semantic embeddings.
 
 The missing piece is that, this gives you the aggregate. I want different tribes to take this quiz, to map out what _they_ think it should be. The reality is there are large groups who would say the concept of "capitalism" is much closer to "evil" than communism. I want to build these conceptual maps that are specific to different tribes, because they let us identify (1) exactly in what way do people see a different reality (2) exactly what is our common ground 
+
+### IRL cultural experiments
+
+It is not typical in the culture where I live for friends to "just stop by" your house without calling first. But I can change this with agreement with my friends, then if it works, we can write about it. Does it spread? What about "friendship breakups" ? and normalizing "saying no"? Can we just find all the bottlenecks in our local culture and fix them? And then do "cultural peer review" on the internet? 
+
+On normalizing talking to people at coffee shops:
+
+> this is incredible. my secret plan is to collect stories like this, get people to try it, if it works for many people & communities independently, it spreads. Cultural peer review
+https://x.com/DefenderOfBasic/status/1855620094107230688
