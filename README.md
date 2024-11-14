@@ -24,5 +24,5 @@ Currently self funded.
 If you know of any funding opportunities for my work please let me know. 
 
 <a href="https://ko-fi.com/defenderofbasic">
-<img width="200" alt="support_me_on_kofi_badge_dark" src="https://github.com/user-attachments/assets/df19236a-d8e3-434f-b405-cd903d2f4739">
+<img width="100" alt="support_me_on_kofi_badge_dark" src="https://github.com/user-attachments/assets/df19236a-d8e3-434f-b405-cd903d2f4739">
 </a>
