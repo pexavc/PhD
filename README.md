@@ -4,9 +4,13 @@ Pursuing independent research in "sociocultural technology". My current focus is
 
 My background is in computer science & math. I worked in tech for 6 years (geospatial software). 
 
-### Research statement (WIP)
+### Research statement
 
-TODO
+The behavior of groups of humans can be predicted with great precision. Private entities that have a lot of data about people can already do this. We should study this in the open so we can protect ourselves, and also because we'll have much better data, and much better models. This will help us align our incentives with those with power, or confirm it's not possible, and instead find & cooperate with the groups who are aligned with us.
+
+> solve cooperation, use it to solve everything else - @IvanVendrov
+
+My top priority is figuring out how to study, predict, and engineer our culture safely. I'm doing this work 100% in the open for this reason. 
 
 ### Advisors
 
@@ -19,4 +23,6 @@ Currently self funded.
 
 If you know of any funding opportunities for my work please let me know. 
 
-https://ko-fi.com/defenderofbasic
+<a href="https://ko-fi.com/defenderofbasic">
+<img width="200" alt="support_me_on_kofi_badge_dark" src="https://github.com/user-attachments/assets/df19236a-d8e3-434f-b405-cd903d2f4739">
+</a>
