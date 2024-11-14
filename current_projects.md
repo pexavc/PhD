@@ -26,6 +26,8 @@ Aella does this a lot, but I want this to somehow be easier, more common of a pa
 
 This is partially about creating the tech tools and partially about spreading that idea that anyone can do this, you can analyze other people's data, etc.
 
+Forking is really important because Aella's polls for example sometimes get crazy answers/conclusion where people say "that's not true/representative". I want people to be able to run the study within their own friend network, and compare their network to the global/sampled population. This is how to get things to "spread sideways", in areas where internet culture doesn't touch. My mom isn't going to see this surveys, but if the game is: "poll your network" I can go sit with her and do it. 
+
 ### IRL cultural experiments
 
 It is not typical in the culture where I live for friends to "just stop by" your house without calling first. But I can change this with agreement with my friends, then if it works, we can write about it. Does it spread? What about "friendship breakups" ? and normalizing "saying no"? Can we just find all the bottlenecks in our local culture and fix them? And then do "cultural peer review" on the internet? 
