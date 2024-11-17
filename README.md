@@ -39,3 +39,7 @@ I want to contribute to a world where all tribes on earth have access to tools t
 
 Our culture is open source & needs ongoing maintenance. 
 
+> (1) humans need tribes (2) tribes need walls (3) "the other side is evil" is an effective way of reinforcing those walls, but it's not true (4) finding a way to reinforce walls that IS true is better for everyone
+> https://x.com/DefenderOfBasic/status/1858204201211334690
+
+
