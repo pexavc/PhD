@@ -4,6 +4,8 @@ Pursuing independent research in "sociocultural technology". My current focus is
 
 My background is in computer science & math. I worked in tech for 6 years (geospatial software). 
 
+You can follow [my writing on Substack](https://defenderofthebasic.substack.com/).
+
 ### 📜 Research statement
 
 The behavior of groups of humans can be predicted with great precision. Private entities that have a lot of data about people can already do this. We should study this in the open so we can protect ourselves, and also because we'll have much better data, and much better models. This will help us align our incentives with those with power, or confirm it's not possible, and instead find & cooperate with the groups who are aligned with us.
