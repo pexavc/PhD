@@ -1,6 +1,6 @@
 # Defender's PhD
 
-Pursuing independent research in "sociocultural technology". My current focus is developing experimental techniques, documenting them, and carrying out experiments to corroborate or falsify theories. See: [list of people I believe are in this field](https://github.com/DefenderOfBasic/PhD/issues/2).
+Pursuing independent research in "culture science". My current focus is developing experimental techniques, documenting them, and carrying out experiments to corroborate or falsify theories. See: [list of people I believe are in this field](https://github.com/DefenderOfBasic/PhD/issues/2).
 
 My background is in computer science & math. I worked in tech for 6 years (geospatial software). 
 
