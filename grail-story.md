@@ -9,3 +9,4 @@ The true hero was the blacksmith's daughter who spent years studying ancient tex
 When the Grail was finally found, the court erupted in celebration of the knight who carried it home. But the true victory belonged to the countless unnamed souls who had laid the foundation for this moment, brick by brick, sacrifice by sacrifice, expecting nothing in return but the quiet satisfaction of knowing they had played their part in something greater than themselves.
 
 This is a tale of the unsung heroes - those who changed the world without changing history's pages. For in the end, the greatest quests are won not by single acts of glory, but by countless acts of humble service, woven together like threads in a tapestry that tells a far greater story than any one hero could write alone.
+https://claude.site/artifacts/a27f5aa9-26cb-4dd9-823b-be99c080fdb9
